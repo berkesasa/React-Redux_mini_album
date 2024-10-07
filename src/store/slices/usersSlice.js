@@ -23,7 +23,7 @@ const usersSlice = createSlice({
     });
 
     builder.addCase(addUser.pending, (state, action) => {
-      state.isLoading = false;
+      state.isLoading = true;
     });
     builder.addCase(addUser.fulfilled, (state, action) => {
       state.isLoading = false;
