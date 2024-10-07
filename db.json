@@ -1,7 +1,22 @@
 {
-    "users": [
-        { "id": 1, "name": "Myra" }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": "ca62",
+      "name": "Kathryn Marks"
+    },
+    {
+      "id": "df4c",
+      "name": "Beth Gerhold"
+    },
+    {
+      "id": "6847",
+      "name": "Javier Crona"
+    },
+    {
+      "id": "cccc",
+      "name": "Janie Mante"
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
