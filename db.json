@@ -15,9 +15,39 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "hiking trip",
-      "userId": "df4c"
+      "id": "10",
+      "userId": "df4c",
+      "title": "hiking trip"
+    },
+    {
+      "id": "7a5a",
+      "userId": "df4c",
+      "title": "Tasty Granite Pants"
+    },
+    {
+      "id": "db81",
+      "userId": "df4c",
+      "title": "Gorgeous Fresh Gloves"
+    },
+    {
+      "id": "4f2b",
+      "userId": "df4c",
+      "title": "Handcrafted Bronze Sausages"
+    },
+    {
+      "id": "aefd",
+      "userId": "df4c",
+      "title": "Luxurious Rubber Tuna"
+    },
+    {
+      "id": "79d9",
+      "userId": "df4c",
+      "title": "Tasty Metal Cheese"
+    },
+    {
+      "id": "d840",
+      "userId": "3411",
+      "title": "Fantastic Frozen Sausages"
     }
   ],
   "photos": []
