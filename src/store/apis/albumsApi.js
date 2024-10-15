@@ -38,7 +38,7 @@ const albumsApi = createApi({
                     }
                 }
             }),
-            addAlbums: builder.mutation({
+            addAlbum: builder.mutation({
                 invalidatesTags: (result, error, user) => {
                     return [{ type: 'UsersAlbums', id: user.id }]
                 },
@@ -69,5 +69,5 @@ const albumsApi = createApi({
     }
 })
 
-export const { useFetchAlbumsQuery, useAddAlbumsMutation, useRemoveAlbumMutation } = albumsApi
+export const { useFetchAlbumsQuery, useAddAlbumMutation, useRemoveAlbumMutation } = albumsApi
 export { albumsApi }

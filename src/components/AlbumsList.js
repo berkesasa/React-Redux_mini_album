@@ -1,4 +1,4 @@
-import { useAddAlbumsMutation, useFetchAlbumsQuery } from '../store'
+import { useAddAlbumMutation, useFetchAlbumsQuery } from '../store'
 import Skeleton from './Skeleton'
 import Button from './Button'
 import AlbumsListItem from './AlbumsListItem'
@@ -6,7 +6,7 @@ import AlbumsListItem from './AlbumsListItem'
 function AlbumsList({ user }) {
 
     const { data, error, isFetching } = useFetchAlbumsQuery(user)
-    const [addAlbum, results] = useAddAlbumsMutation()
+    const [addAlbum, results] = useAddAlbumMutation()
 
     let content;
     if (isFetching) {

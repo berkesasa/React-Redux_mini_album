@@ -15,11 +15,6 @@
   ],
   "albums": [
     {
-      "id": "10",
-      "userId": "df4c",
-      "title": "hiking trip"
-    },
-    {
       "id": "7a5a",
       "userId": "df4c",
       "title": "Tasty Granite Pants"
@@ -30,25 +25,81 @@
       "title": "Gorgeous Fresh Gloves"
     },
     {
-      "id": "4f2b",
-      "userId": "df4c",
-      "title": "Handcrafted Bronze Sausages"
-    },
-    {
-      "id": "aefd",
-      "userId": "df4c",
-      "title": "Luxurious Rubber Tuna"
-    },
-    {
-      "id": "79d9",
-      "userId": "df4c",
-      "title": "Tasty Metal Cheese"
-    },
-    {
       "id": "d840",
       "userId": "3411",
       "title": "Fantastic Frozen Sausages"
+    },
+    {
+      "id": "8e5c",
+      "userId": "f4f2",
+      "title": "Incredible Cotton Bacon"
+    },
+    {
+      "id": "c206",
+      "userId": "3411",
+      "title": "Intelligent Rubber Pizza"
+    },
+    {
+      "id": "ed2f",
+      "userId": "3411",
+      "title": "Bespoke Metal Table"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "e7e3",
+      "albumId": "7a5a",
+      "url": "https://loremflickr.com/150/150/abstract?lock=64511"
+    },
+    {
+      "id": "7e2e",
+      "albumId": "7a5a",
+      "url": "https://loremflickr.com/150/150/abstract?lock=45741"
+    },
+    {
+      "id": "0921",
+      "albumId": "db81",
+      "url": "https://loremflickr.com/150/150/abstract?lock=86822"
+    },
+    {
+      "id": "5667",
+      "albumId": "db81",
+      "url": "https://loremflickr.com/150/150/abstract?lock=19672"
+    },
+    {
+      "id": "084b",
+      "albumId": "8e5c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=40957"
+    },
+    {
+      "id": "e644",
+      "albumId": "8e5c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=63304"
+    },
+    {
+      "id": "a92c",
+      "albumId": "8e5c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2014"
+    },
+    {
+      "id": "de9d",
+      "albumId": "d840",
+      "url": "https://loremflickr.com/150/150/abstract?lock=32845"
+    },
+    {
+      "id": "a247",
+      "albumId": "d840",
+      "url": "https://loremflickr.com/150/150/abstract?lock=20218"
+    },
+    {
+      "id": "7921",
+      "albumId": "c206",
+      "url": "https://loremflickr.com/150/150/abstract?lock=39269"
+    },
+    {
+      "id": "d445",
+      "albumId": "ed2f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=97686"
+    }
+  ]
 }
