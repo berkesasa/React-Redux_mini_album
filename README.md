@@ -74,8 +74,6 @@ This project uses the following technologies:
 - [axios](https://axios-http.com/): A promise-based HTTP client for making requests in JavaScript.
 
 
-
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
