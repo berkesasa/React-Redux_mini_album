@@ -60,7 +60,7 @@ npm run start:server
 <table>
   <tr>
     <td><img src="/src/screenshots/screenshot-1.png" width="1200"></td>
-    <td><img src="/src/screenshots/screenshot-2.gif" width="1200"></td>
+    <td><img src="/src/screenshots/screenshot-2.gif" style=" height: 100%; object-fit: contain;"></td>
   </tr>
 </table>
 
